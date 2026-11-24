@@ -1,8 +1,6 @@
-
 name: dz_taxi
 description: DZ TAXI - Dasoguz taxi application
 publish_to: 'none'
-
 version: 1.0.0+1
 
 environment:
@@ -11,7 +9,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
   cupertino_icons: ^1.0.8
   yandex_maps_mapkit: ^4.45.0
 

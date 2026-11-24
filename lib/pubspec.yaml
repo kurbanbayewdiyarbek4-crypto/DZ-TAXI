@@ -11,7 +11,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
   cupertino_icons: ^1.0.8
+  yandex_maps_mapkit: ^4.45.0
 
 dev_dependencies:
   flutter_test:
